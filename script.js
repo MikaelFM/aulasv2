@@ -4,7 +4,7 @@ var minuto = 0;
 var link = '';
 var d = '';
 function();
-document.getElementById('Pp2').innerHTML = d + ' - ' + hora + ':' + minuto; 
+document.getElementById('Pp2').innerHTML = d + ' - ' + hora + 'h' + minuto; 
 const getDia = function(){
         now = new Date;
         var x = now.getDay();
