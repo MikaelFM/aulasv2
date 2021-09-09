@@ -300,3 +300,37 @@ body {
             font-size: 10px;
         }
     }
+    @media screen and (max-width: 300px){
+        #container-image img {
+            margin-top: 500px;
+            width: 250px;
+            height: 85px;
+        }
+        #p {
+            text-align: center;
+            margin-left: auto;
+            color: white;
+            font-size: 11px;
+            font-family: Open Sans;
+            font-weight: bold;
+        }
+        #p2 {
+            font-size: 11px;
+        }
+        #dia {
+            width: 220px;
+        }
+        .container {
+            align-items: center;
+            position: relative;
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .container .skill .percent {
+            height: 2.5px; 
+        }
+        .value {
+            font-size: 10px;
+        }
+    }
