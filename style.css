@@ -147,8 +147,8 @@ body {
             height: 238px;
         }
         #p {
-            margin-left: 9%;
-            margin-right: auto;
+            text-align: center;
+            margin-left: auto;
             color: white;
             font-size: 25px;
             font-family: Open Sans;
@@ -174,8 +174,8 @@ body {
             height: 197px;
         }
         #p {
-            margin-left: 9%;
-            margin-right: auto;
+            text-align: center;
+            margin-left: auto;
             color: white;
             font-size: 20px;
             font-family: Open Sans;
