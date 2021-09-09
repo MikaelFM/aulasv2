@@ -258,7 +258,7 @@ body {
     }
     @media screen and (max-width: 505px){
          body {
-            background-color: hotpink;
+            background-color: red;
         }
         #container-image img {
             width: 400px;
