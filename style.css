@@ -20,8 +20,8 @@ body {
         height: 337px;
     }
     #p {
-        margin-left: 25%;
-        margin-right: auto;
+        text-align: center;
+        margin-left: auto;
         color: white;
         font-size: xx-large;
         font-family: Open Sans;
@@ -109,22 +109,26 @@ body {
     }
     @media screen and (max-width: 1722px){
         #p {
-            margin-left: 23%;
+            text-align: center;
+            margin-left: auto;
         }
     }
     @media screen and (max-width: 1436px){
         #p {
-            margin-left: 16%;
+            text-align: center;
+            margin-left: auto;
         }
     }
     @media screen and (max-width: 1217px){
         #p {
-            margin-left: 10%;
+            text-align: center;
+            margin-left: auto;
         }
     }
     @media screen and (max-width: 1090px){
         #p {
-            margin-left: 6%;
+            text-align: center;
+            margin-left: auto;
         }
     }
     @media screen and (max-width: 993px){
@@ -133,8 +137,8 @@ body {
             height: 289px;
         }
         #p {
-            margin-left: 8%;
-            margin-right: auto;
+            text-align: center;
+            margin-left: auto;
             color: white;
             font-size: xx-large;
             font-family: Open Sans;
