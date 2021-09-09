@@ -294,11 +294,11 @@ body {
     }
     @media screen and (max-width: 400px){
          body {
-            background-color: lightcoral;
+            background-color: lime;
         }
         #container-image img {
-            width: 300px;
-            height: 102px;
+            width: 250px;
+            height: 85px;
         }
         #p {
             text-align: center;
