@@ -296,7 +296,7 @@ body {
     }
     @media screen and (max-width: 400px){
          body {
-            background-color: lime;
+            background-color: moccasin;
         }
         img {
             width: 150px;
