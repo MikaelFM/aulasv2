@@ -108,30 +108,45 @@ body {
         }
     }
     @media screen and (max-width: 1722px){
+        body {
+            background-color: red;
+        }
         #p {
             text-align: center;
             margin-left: auto;
         }
     }
     @media screen and (max-width: 1436px){
+        body {
+            background-color: green;
+        }
         #p {
             text-align: center;
             margin-left: auto;
         }
     }
     @media screen and (max-width: 1217px){
+        body {
+            background-color: yellow;
+        }
         #p {
             text-align: center;
             margin-left: auto;
         }
     }
     @media screen and (max-width: 1090px){
+        body {
+            background-color: blue;
+        }
         #p {
             text-align: center;
             margin-left: auto;
         }
     }
     @media screen and (max-width: 993px){
+         body {
+            background-color: orange;
+        }
         img {
             width: 850px;
             height: 289px;
@@ -146,6 +161,9 @@ body {
         }
     }
     @media screen and (max-width: 850px){
+         body {
+            background-color: white;
+        }
         img {
             width: 700px;
             height: 238px;
@@ -173,6 +191,9 @@ body {
         }
     }
     @media screen and (max-width: 700px){
+         body {
+            background-color: lime;
+        }
         img {
             width: 580px;
             height: 197px;
@@ -200,6 +221,9 @@ body {
         }
     }
     @media screen and (max-width: 580px){
+         body {
+            background-color: gray;
+        }
         img {
             width: 400px;
             height: 136px;
@@ -233,6 +257,9 @@ body {
         }
     }
     @media screen and (max-width: 505px){
+         body {
+            background-color: hotpink;
+        }
         #container-image img {
             margin-top: 500px;
             width: 400px;
@@ -267,6 +294,9 @@ body {
         }
     }
     @media screen and (max-width: 400px){
+         body {
+            background-color: indigo;
+        }
         #container-image img {
             margin-top: 500px;
             width: 300px;
@@ -301,8 +331,13 @@ body {
         }
     }
     @media screen and (max-width: 300px){
+         body {
+            background-color: black;
+        }
         #container-image img {
-            display: none;
+            margin-top: 500px;
+            width: 250px;
+            height: 85px;
         }
         #p {
             text-align: center;
