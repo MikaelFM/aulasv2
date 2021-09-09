@@ -10,6 +10,7 @@ body {
         background: url('background1.png');
         background-size: cover;
     }
+
     img {
         align-self: center;
         display: block;
