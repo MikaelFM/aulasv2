@@ -299,12 +299,12 @@ body {
             background-color: moccasin;
         }
         img {
-            width: 150px;
-            height: 51px;
+            width: 300px;
+            height: 102px;
         }
         #container-image img {
-            width: 150px;
-            height: 51px;
+            width: 300px;
+            height: 102px;
         }
         #p {
             text-align: center;
