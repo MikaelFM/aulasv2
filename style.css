@@ -302,9 +302,7 @@ body {
     }
     @media screen and (max-width: 300px){
         #container-image img {
-            margin-top: 500px;
-            width: 250px;
-            height: 85px;
+            display: none;
         }
         #p {
             text-align: center;
