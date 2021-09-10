@@ -1,3 +1,4 @@
+var link = '';
 function sleep(milliseconds){
     var start = new Date().getTime();
     var end=0;
@@ -11,7 +12,9 @@ const gato = function(){if (c <= 100){
     setTimeout('gato()', 250);	
     c += 10;
 } else {
+    if (link != ''){
     window.location.href = link;
+    }
 }
 }
 
@@ -34,7 +37,6 @@ const getDia = function(){
         const quinta = 4;
         const sexta = 5;
         const sabado = 6;
-        link = '';
 
     if (x == domingo){
         d = 'DOMINGO';
